@@ -1,3 +1,5 @@
 # Hello
 ## I am Hemant
-https://themantra108.github.io/staticPlutoTemplate/
+deploy
+* pluto notebooks https://themantra108.github.io/staticPlutoTemplate/
+* pluto + using Franklin https://themantra108.github.io/plutoTemplate/
